@@ -1,5 +1,5 @@
-#Algoritmos II - Universidad Nacional de San Martín
-##1° cuatrimestre 2026
+# Algoritmos II - Universidad Nacional de San Martín
+## 1° cuatrimestre 2026
 
 **Main language**: Kotlin
 **Subject website**: https://algo2.uqbar-project.org/
@@ -11,7 +11,7 @@
 3. TP especial
 4. Parcial final
 
-###Material
+### Material
 
 - Apuntes del sitio web
 - Ejemplos en Github
